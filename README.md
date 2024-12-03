@@ -4,4 +4,4 @@ and maintain a strong security posture using Microsoft’s security products and
 
 ## Topics
 - <a href="https://github.com/NgethaWachira/Microsoft-Virtual-machine">Setting Up and Securing Virtual Machines in Azure with Microsoft 365 Defender and Intune</a>
-- Setting up and configuring Microsoft Sentinel in an Azure environment
+- <a href="https://github.com/NgethaWachira/Configuring-Microsoft-Sentinel">Setting up and configuring Microsoft Sentinel in an Azure environment</a>
