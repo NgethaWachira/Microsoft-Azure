@@ -7,3 +7,4 @@ and maintain a strong security posture using Microsoft’s security products and
 - <a href="https://github.com/NgethaWachira/Configuring-Microsoft-Sentinel">Setting up and Configuring Microsoft Sentinel in an Azure environment</a>
 - <a href="https://github.com/NgethaWachira/Azure-Security-and-Simulation">Setting Up Azure Security and Phishing Simulation with Microsoft Defender</a>
 - <a href="https://github.com/NgethaWachira/Microsoft-Sentinel-Analytics-Configuration">Configuring and Managing Analytics Rules and Automation in Microsoft Sentinel</a>
+- <a href="https://github.com/NgethaWachira/Microsoft-365-Security-and-Compliance-Management">Mastering Microsoft 365 Security: Tools for Threat Detection, Investigation, and Remediation</a>
